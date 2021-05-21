@@ -1,0 +1,19 @@
+C:\Users\ggons\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\bin\Debug\Ohm's Law Calculator - WindowsForms.exe.config
+C:\Users\ggons\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\bin\Debug\Ohm's Law Calculator - WindowsForms.exe
+C:\Users\ggons\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\bin\Debug\Ohm's Law Calculator - WindowsForms.pdb
+C:\Users\ggons\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm's Law Calculator - WindowsForms.csprojAssemblyReference.cache
+C:\Users\ggons\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm_s_Law_Calculator___WindowsForms.Form1.resources
+C:\Users\ggons\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm_s_Law_Calculator___WindowsForms.Properties.Resources.resources
+C:\Users\ggons\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm's Law Calculator - WindowsForms.csproj.GenerateResource.cache
+C:\Users\ggons\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm's Law Calculator - WindowsForms.exe
+C:\Users\ggons\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm's Law Calculator - WindowsForms.pdb
+C:\Users\Gabe\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm's Law Calculator - WindowsForms.csprojAssemblyReference.cache
+C:\Users\Gabe\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm_s_Law_Calculator___WindowsForms.Form1.resources
+C:\Users\Gabe\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm_s_Law_Calculator___WindowsForms.Properties.Resources.resources
+C:\Users\Gabe\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm's Law Calculator - WindowsForms.csproj.GenerateResource.cache
+C:\Users\Gabe\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm's Law Calculator - WindowsForms.exe
+C:\Users\Gabe\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm's Law Calculator - WindowsForms.pdb
+C:\Users\Gabe\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\bin\Debug\Ohm's Law Calculator - WindowsForms.exe.config
+C:\Users\Gabe\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\bin\Debug\Ohm's Law Calculator - WindowsForms.exe
+C:\Users\Gabe\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\bin\Debug\Ohm's Law Calculator - WindowsForms.pdb
+C:\Users\ggons\OneDrive - Dufferin-Peel Catholic District School Board\Grade 11\TER\Programming Unit\Ohm's Law Calculator - WindowsForms\obj\Debug\Ohm's Law Calculator - WindowsForms.csproj.CoreCompileInputs.cache
