@@ -7,13 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-/*
- * Written By: Gabriel Gonsalves
- * Written For: Mr. Kolch
- * Date: 2020-02-19
- * Course Code: TER3M1
- * Description: An Ohms law calculator with wattage calculation and memory.
- */
 
 /*
  * Note: All statements and actions in this program contain a try and catch method
